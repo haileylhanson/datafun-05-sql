@@ -3,8 +3,11 @@ CC5.1: Start a Python/SQL Project
 
 ## author: Hailey Hanson 
 ## organization: Northwest Missouri State University
-## purpose: Data Analytics Fundamentals - Project 5
+## purpose: Data Analytics Fundamentals - Project 5 - an introductory SQLite database project
 
+
+### first, I created data and sql_create subfolders 
+### next I created sample.sql and sample.db in the sql_create folder to work with sql and produce a database of authors 
 
 # 🟠 Part 1: Project Initialization
 
