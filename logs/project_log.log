@@ -1,0 +1,32 @@
+2025-09-23 16:45:38.041 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-09-23 16:45:38.041 | INFO     | __main__:main:38 - Starting database setup...
+2025-09-23 16:45:38.043 | INFO     | __main__:main:52 - Connected to database: /Users/haileyhanson/Repos/datafun-05-sql/data/db.sqlite
+2025-09-23 16:45:38.043 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/haileyhanson/Repos/datafun-05-sql/sql_create/01_drop_tables.sql
+2025-09-23 16:45:38.044 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/haileyhanson/Repos/datafun-05-sql/sql_create/02_create_tables.sql
+2025-09-23 16:45:38.045 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/haileyhanson/Repos/datafun-05-sql/sql_create/03_insert_records.sql
+2025-09-23 16:45:38.045 | INFO     | __main__:main:60 - Database setup completed successfully.
+2025-09-23 16:45:38.045 | INFO     | __main__:main:65 - Database connection closed.
+2025-09-23 16:50:47.210 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-09-23 16:50:47.210 | INFO     | __main__:main:38 - Starting database setup...
+2025-09-23 16:50:47.213 | INFO     | __main__:main:52 - Connected to database: /Users/haileyhanson/Repos/datafun-05-sql/data/db.sqlite
+2025-09-23 16:50:47.217 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/haileyhanson/Repos/datafun-05-sql/sql_create/01_drop_tables.sql
+2025-09-23 16:50:47.218 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/haileyhanson/Repos/datafun-05-sql/sql_create/02_create_tables.sql
+2025-09-23 16:50:47.219 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/haileyhanson/Repos/datafun-05-sql/sql_create/03_insert_records.sql
+2025-09-23 16:50:47.219 | INFO     | __main__:main:60 - Database setup completed successfully.
+2025-09-23 16:50:47.219 | INFO     | __main__:main:65 - Database connection closed.
+2025-09-23 17:00:56.626 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-09-23 17:00:56.626 | INFO     | __main__:main:38 - Starting database setup...
+2025-09-23 17:00:56.627 | INFO     | __main__:main:52 - Connected to database: /Users/haileyhanson/Repos/datafun-05-sql/data/db.sqlite3
+2025-09-23 17:00:56.628 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/haileyhanson/Repos/datafun-05-sql/sql_create/01_drop_tables.sql
+2025-09-23 17:00:56.628 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/haileyhanson/Repos/datafun-05-sql/sql_create/02_create_tables.sql
+2025-09-23 17:00:56.629 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/haileyhanson/Repos/datafun-05-sql/sql_create/03_insert_records.sql
+2025-09-23 17:00:56.629 | INFO     | __main__:main:60 - Database setup completed successfully.
+2025-09-23 17:00:56.629 | INFO     | __main__:main:65 - Database connection closed.
+2025-09-23 17:04:24.025 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-09-23 17:04:24.025 | INFO     | __main__:main:38 - Starting database setup...
+2025-09-23 17:04:24.027 | INFO     | __main__:main:52 - Connected to database: /Users/haileyhanson/Repos/datafun-05-sql/data/db.sqlite3
+2025-09-23 17:04:24.029 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/haileyhanson/Repos/datafun-05-sql/sql_create/01_drop_tables.sql
+2025-09-23 17:04:24.029 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/haileyhanson/Repos/datafun-05-sql/sql_create/02_create_tables.sql
+2025-09-23 17:04:24.030 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/haileyhanson/Repos/datafun-05-sql/sql_create/03_insert_records.sql
+2025-09-23 17:04:24.030 | INFO     | __main__:main:60 - Database setup completed successfully.
+2025-09-23 17:04:24.030 | INFO     | __main__:main:65 - Database connection closed.
